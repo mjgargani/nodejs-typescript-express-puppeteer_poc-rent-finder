@@ -1,0 +1,2 @@
+https://khalilstemmler.com/blogs/typescript/node-starter-project/
+https://www.lewuathe.com/simple-crawling-with-puppeteer-in-typescript.html
