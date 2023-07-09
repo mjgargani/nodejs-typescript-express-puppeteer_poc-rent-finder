@@ -1,2 +1,4 @@
 https://khalilstemmler.com/blogs/typescript/node-starter-project/
 https://www.lewuathe.com/simple-crawling-with-puppeteer-in-typescript.html
+https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-typescript-58p9
+https://minh-ngo-13778.medium.com/typescript-tsconfig-json-compileroptions-module-and-target-588c6c66e55c
