@@ -1,0 +1,11 @@
+{
+  "include": [
+    "aluguel"
+  ],
+  "ignore": [
+    "anuncio",
+    "venda",
+    "comprar",
+    "compre"
+  ]
+}
