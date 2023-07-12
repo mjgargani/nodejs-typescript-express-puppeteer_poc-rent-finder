@@ -3,6 +3,6 @@
     "site": "https://duckduckgo.com/",
     "qs": "?q=",
     "results": "h2 > a",
-    "ad": ["ad_domain"]
+    "ad": "ad_domain"
   }
 ]

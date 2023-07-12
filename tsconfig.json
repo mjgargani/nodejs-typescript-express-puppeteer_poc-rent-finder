@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es2016",                      
-    "lib": ["es6", "DOM"],                          
+    "lib": ["ESNext", "DOM"],                          
     "module": "commonjs",                    
     "rootDir": "src",                        
     "resolveJsonModule": true,               
