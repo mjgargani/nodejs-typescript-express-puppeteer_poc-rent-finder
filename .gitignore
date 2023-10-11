@@ -90,7 +90,10 @@ out
 # Nuxt.js build / generate output
 .nuxt
 dist
+<<<<<<< HEAD
 build
+=======
+>>>>>>> c09db377822a35be7a516d669136b9724b846c30
 
 # Gatsby files
 .cache/
